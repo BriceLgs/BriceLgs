@@ -15,7 +15,7 @@ Je viens du front-end, mais j’aime comprendre ce qui se passe aussi côté bac
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BriceLgs&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=BriceLgs&limit=5&theme=nord&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=BriceLgs&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BriceLgs&icon=3&color=1)](https://visitcount.itsvg.in)
