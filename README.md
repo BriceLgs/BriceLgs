@@ -1,6 +1,6 @@
 # 💫 About Me:
 Développement d’applications web avec Angular (front-end) et Java (back-end), dans le cadre de projets de formation et de projets professionnels.
-Des projets web en Java / Angular, avec une approche structurée et du code lisible.<br><br>🤝 Ce sur quoi j’aimerais progresser
+Des projets web en Java / Angular, avec une approche structurée et du code lisible.
 Les bonnes pratiques avancées en Angular, Java et l’architecture des applications web.
 Angular (composants, routing, services, observables), Java et les bases du développement full-stack.
 Les bases d’Angular, l’intégration front-end, la structuration de projets web et l’apprentissage en alternance.
